@@ -1,0 +1,25 @@
+
+  error - Undefined name 'cardColor' - lib\screens\home_screen.dart:524:22 - undefined_identifier
+  error - Undefined name 'isDark' - lib\screens\home_screen.dart:528:26 - undefined_identifier
+  error - Undefined name 'cardColor' - lib\screens\home_screen.dart:606:16 - undefined_identifier
+  error - Undefined name 'isDark' - lib\screens\home_screen.dart:610:20 - undefined_identifier
+  error - Undefined name 'isDark' - lib\screens\home_screen.dart:675:16 - undefined_identifier
+  error - Undefined name 'cardColor' - lib\screens\play_screen.dart:146:52 - undefined_identifier
+  error - Undefined name 'cardColor' - lib\screens\play_screen.dart:226:18 - undefined_identifier
+  error - Undefined name 'isDark' - lib\screens\play_screen.dart:228:40 - undefined_identifier
+  error - Undefined name 'cardColor' - lib\screens\scan_screen.dart:269:42 - undefined_identifier
+  error - Undefined name 'cardColor' - lib\screens\stats_screen.dart:207:61 - undefined_identifier
+  error - Undefined name 'isDark' - lib\screens\stats_screen.dart:217:39 - undefined_identifier
+  error - Undefined name 'subTextColor' - lib\screens\stats_screen.dart:224:52 - undefined_identifier
+  error - Undefined name 'cardColor' - lib\screens\stats_screen.dart:244:16 - undefined_identifier
+  error - Undefined name 'isDark' - lib\screens\stats_screen.dart:248:20 - undefined_identifier
+  error - Undefined name 'cardColor' - lib\screens\stats_screen.dart:390:16 - undefined_identifier
+  error - Undefined name 'isDark' - lib\screens\stats_screen.dart:394:20 - undefined_identifier
+  error - Undefined name 'isDark' - lib\screens\stats_screen.dart:419:28 - undefined_identifier
+  error - Undefined name 'textColor' - lib\screens\stats_screen.dart:449:56 - undefined_identifier
+  error - Undefined name 'cardColor' - lib\screens\stats_screen.dart:483:16 - undefined_identifier
+  error - Undefined name 'isDark' - lib\screens\stats_screen.dart:487:20 - undefined_identifier
+  error - Undefined name 'isDark' - lib\screens\stats_screen.dart:576:30 - undefined_identifier
+  error - Undefined name 'isDark' - lib\screens\stats_screen.dart:629:16 - undefined_identifier
+  error - Undefined name 'isDark' - lib\screens\stats_screen.dart:631:35 - undefined_identifier
+
